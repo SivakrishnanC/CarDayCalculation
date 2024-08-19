@@ -1,0 +1,26 @@
+[
+  {
+    "VehicleID": 1,
+    "VIN": "ABC123",
+    "AddDate": "2024-08-01T00:00:00",
+    "ExpiryDate": null
+  },
+  {
+    "VehicleID": 2,
+    "VIN": "XYZ789",
+    "AddDate": "2024-08-01T00:00:00",
+    "ExpiryDate": null
+  },
+  {
+    "VehicleID": 3,
+    "VIN": "XYZ789AD2",
+    "AddDate": "2024-07-31T00:00:00",
+    "ExpiryDate": "2024-09-30T00:00:00"
+  },
+  {
+    "VehicleID": 4,
+    "VIN": "18113",
+    "AddDate": "2024-07-01T00:00:00",
+    "ExpiryDate": "2024-10-31T00:00:00"
+  }
+]

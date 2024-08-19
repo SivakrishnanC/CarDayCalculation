@@ -1,0 +1,51 @@
+[
+  {
+    "VehicleLocationID": 1,
+    "VehicleID": 1,
+    "LocationID": 1,
+    "EffectiveDate": "2024-08-01T00:00:00",
+    "ExpiryDate": "2024-08-20T00:00:00"
+  },
+  {
+    "VehicleLocationID": 2,
+    "VehicleID": 1,
+    "LocationID": 2,
+    "EffectiveDate": "2024-08-20T00:00:00",
+    "ExpiryDate": null
+  },
+  {
+    "VehicleLocationID": 3,
+    "VehicleID": 2,
+    "LocationID": 1,
+    "EffectiveDate": "2024-08-01T00:00:00",
+    "ExpiryDate": "2024-08-20T00:00:00"
+  },
+  {
+    "VehicleLocationID": 4,
+    "VehicleID": 2,
+    "LocationID": 2,
+    "EffectiveDate": "2024-08-20T00:00:00",
+    "ExpiryDate": null
+  },
+  {
+    "VehicleLocationID": 5,
+    "VehicleID": 3,
+    "LocationID": 3,
+    "EffectiveDate": "2024-07-31T00:00:00",
+    "ExpiryDate": "2024-08-10T00:00:00"
+  },
+  {
+    "VehicleLocationID": 6,
+    "VehicleID": 3,
+    "LocationID": 4,
+    "EffectiveDate": "2024-08-10T00:00:00",
+    "ExpiryDate": "2024-09-30T00:00:00"
+  },
+  {
+    "VehicleLocationID": 7,
+    "VehicleID": 4,
+    "LocationID": 4,
+    "EffectiveDate": "2024-07-01T00:00:00",
+    "ExpiryDate": "2024-10-31T00:00:00"
+  }
+]

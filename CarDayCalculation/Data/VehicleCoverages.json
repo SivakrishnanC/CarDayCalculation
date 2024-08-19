@@ -1,0 +1,170 @@
+[
+  {
+    "VehicleCoverageID": 1,
+    "VehicleID": 1,
+    "LocationID": 1,
+    "CoverageTypeID": 1,
+    "EffectiveDate": "2024-08-01T00:00:00",
+    "ExpiryDate": "2024-08-10T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 2,
+    "VehicleID": 1,
+    "LocationID": 1,
+    "CoverageTypeID": 2,
+    "EffectiveDate": "2024-08-01T00:00:00",
+    "ExpiryDate": "2024-08-10T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 3,
+    "VehicleID": 1,
+    "LocationID": 1,
+    "CoverageTypeID": 3,
+    "EffectiveDate": "2024-08-01T00:00:00",
+    "ExpiryDate": "2024-08-10T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 4,
+    "VehicleID": 1,
+    "LocationID": 1,
+    "CoverageTypeID": 1,
+    "EffectiveDate": "2024-08-10T00:00:00",
+    "ExpiryDate": "2024-08-20T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 5,
+    "VehicleID": 1,
+    "LocationID": 1,
+    "CoverageTypeID": 2,
+    "EffectiveDate": "2024-08-10T00:00:00",
+    "ExpiryDate": "2024-08-20T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 6,
+    "VehicleID": 1,
+    "LocationID": 1,
+    "CoverageTypeID": 3,
+    "EffectiveDate": "2024-08-10T00:00:00",
+    "ExpiryDate": "2024-08-20T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 7,
+    "VehicleID": 1,
+    "LocationID": 2,
+    "CoverageTypeID": 1,
+    "EffectiveDate": "2024-08-20T00:00:00",
+    "ExpiryDate": null
+  },
+  {
+    "VehicleCoverageID": 8,
+    "VehicleID": 1,
+    "LocationID": 2,
+    "CoverageTypeID": 2,
+    "EffectiveDate": "2024-08-20T00:00:00",
+    "ExpiryDate": null
+  },
+  {
+    "VehicleCoverageID": 9,
+    "VehicleID": 1,
+    "LocationID": 2,
+    "CoverageTypeID": 3,
+    "EffectiveDate": "2024-08-20T00:00:00",
+    "ExpiryDate": null
+  },
+  {
+    "VehicleCoverageID": 10,
+    "VehicleID": 2,
+    "LocationID": 1,
+    "CoverageTypeID": 1,
+    "EffectiveDate": "2024-08-01T00:00:00",
+    "ExpiryDate": "2024-08-10T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 11,
+    "VehicleID": 2,
+    "LocationID": 1,
+    "CoverageTypeID": 2,
+    "EffectiveDate": "2024-08-01T00:00:00",
+    "ExpiryDate": "2024-08-10T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 12,
+    "VehicleID": 2,
+    "LocationID": 1,
+    "CoverageTypeID": 3,
+    "EffectiveDate": "2024-08-01T00:00:00",
+    "ExpiryDate": "2024-08-10T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 13,
+    "VehicleID": 2,
+    "LocationID": 1,
+    "CoverageTypeID": 1,
+    "EffectiveDate": "2024-08-10T00:00:00",
+    "ExpiryDate": "2024-08-20T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 14,
+    "VehicleID": 2,
+    "LocationID": 1,
+    "CoverageTypeID": 2,
+    "EffectiveDate": "2024-08-10T00:00:00",
+    "ExpiryDate": "2024-08-20T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 15,
+    "VehicleID": 2,
+    "LocationID": 1,
+    "CoverageTypeID": 3,
+    "EffectiveDate": "2024-08-10T00:00:00",
+    "ExpiryDate": "2024-08-20T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 16,
+    "VehicleID": 2,
+    "LocationID": 2,
+    "CoverageTypeID": 1,
+    "EffectiveDate": "2024-08-20T00:00:00",
+    "ExpiryDate": null
+  },
+  {
+    "VehicleCoverageID": 17,
+    "VehicleID": 2,
+    "LocationID": 2,
+    "CoverageTypeID": 2,
+    "EffectiveDate": "2024-08-20T00:00:00",
+    "ExpiryDate": null
+  },
+  {
+    "VehicleCoverageID": 18,
+    "VehicleID": 2,
+    "LocationID": 2,
+    "CoverageTypeID": 3,
+    "EffectiveDate": "2024-08-20T00:00:00",
+    "ExpiryDate": null
+  },
+  {
+    "VehicleCoverageID": 19,
+    "VehicleID": 3,
+    "LocationID": 3,
+    "CoverageTypeID": 1,
+    "EffectiveDate": "2024-07-31T00:00:00",
+    "ExpiryDate": "2024-08-10T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 20,
+    "VehicleID": 3,
+    "LocationID": 4,
+    "CoverageTypeID": 1,
+    "EffectiveDate": "2024-08-10T00:00:00",
+    "ExpiryDate": "2024-09-30T00:00:00"
+  },
+  {
+    "VehicleCoverageID": 21,
+    "VehicleID": 4,
+    "LocationID": 4,
+    "CoverageTypeID": 1,
+    "EffectiveDate": "2024-07-01T00:00:00",
+    "ExpiryDate": "2024-10-31T00:00:00"
+  }
+]
